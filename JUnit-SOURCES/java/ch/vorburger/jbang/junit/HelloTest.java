@@ -3,6 +3,8 @@
 
 //SOURCES Hello.java
 
+package ch.vorburger.jbang.junit;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.io.File;

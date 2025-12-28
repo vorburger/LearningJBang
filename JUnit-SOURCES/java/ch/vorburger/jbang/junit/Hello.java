@@ -1,3 +1,5 @@
+package ch.vorburger.jbang.junit;
+
 public class Hello {
 
     public static void main(String[] args) {
